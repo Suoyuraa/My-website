@@ -746,6 +746,7 @@ span{
           align-items: center;
           text-align: center;
           padding: 2rem;
+          height: 38rem;
           display: flex;
           flex-direction: column;
         }
